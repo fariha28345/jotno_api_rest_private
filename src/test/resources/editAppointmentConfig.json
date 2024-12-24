@@ -1,0 +1,12 @@
+{
+  "appointmentMethod": "ONLINE",
+  "timePerPatient": 20,
+  "appointmentRequestType": "Slot",
+  "waitingListEnabled": true,
+  "waitingListSize": 5,
+  "phoneNumber": "01883766247",
+  "extension": "",
+  "instruction": null,
+  "status": "ACTIVE",
+  "visibleInApp": false
+}

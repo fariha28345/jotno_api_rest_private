@@ -1,0 +1,21 @@
+{
+  "patientBasicInfo": {
+    "gender": "Female",
+    "name": "Rest User",
+    "phoneNumber": "01998877665",
+    "occupationId": 314,
+    "dateOfBirth": "01/02/2000",
+    "bloodGroup": "A-",
+    "demography": "SEMI_URBAN",
+    "email": "rest_user@gmail.com",
+    "fatherName": "Rest Rest",
+    "motherName": "Mrs Rest",
+    "spouseName": "Unknown",
+    "doctorGivenPatientId": ""
+  },
+  "latestVitalSign": {},
+  "emergencyContactList": [],
+  "presentAddress": {
+    "address": "Dhaka, Bangladesh"
+  }
+}

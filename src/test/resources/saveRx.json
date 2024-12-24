@@ -1,0 +1,264 @@
+{
+  "prescription": {
+    "rxNumber": "10102NYBLRRLJ",
+    "complaints": [
+      {
+        "unit": "DAY",
+        "suggestionId": 1,
+        "originalSuggestionId": 1,
+        "name": "Cachexia",
+        "originalName": "Cachexia",
+        "values": []
+      },
+      {
+        "unit": "DAY",
+        "suggestionId": 738,
+        "originalSuggestionId": 738,
+        "name": "Anorexia",
+        "originalName": "Anorexia",
+        "values": []
+      }
+    ],
+    "medicines": [
+      {
+        "medicineDoses": [
+          {
+            "schedules": "1+1+1",
+            "continued": false,
+            "duration": "10",
+            "durationUnit": "YEAR",
+            "remarks": "জ্বর বাড়লে; প্রয়োজনে; ভরা পেটে; খাওয়ার পরে",
+            "unit": null,
+            "schedule": 3
+          }
+        ],
+        "drugId": 59849,
+        "name": "NAPA TAB 500mg",
+        "brandName": "NAPA",
+        "formation": "TAB",
+        "strength": "500mg",
+        "vendor": "BEXIMCO",
+        "generic": "PARACETAMOL",
+        "count": 674
+      },
+      {
+        "medicineDoses": [
+          {
+            "schedules": "1+0+1",
+            "continued": false,
+            "duration": "7",
+            "durationUnit": "DAY",
+            "remarks": "ভরা পেটে; খাওয়ার পরে; খাওয়ার পরে",
+            "unit": "tablet",
+            "schedule": 3
+          }
+        ],
+        "drugId": 60115,
+        "name": "NAPA EXTRA TAB 500mg+65mg",
+        "brandName": "NAPA EXTRA",
+        "formation": "TAB",
+        "strength": "500mg+65mg",
+        "vendor": "BEXIMCO",
+        "generic": "PARACETAMOL+CAFFEINE",
+        "count": 13
+      }
+    ],
+    "diagnoses": [
+      {
+        "suggestionId": 163,
+        "originalSuggestionId": 163,
+        "name": "Allergies",
+        "originalName": "Allergies",
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      },
+      {
+        "suggestionId": 158,
+        "originalSuggestionId": 158,
+        "name": "Abdominal aortic aneurysm",
+        "originalName": "Abdominal aortic aneurysm",
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      }
+    ],
+    "investigations": [
+      {
+        "investigationId": 476,
+        "name": "Blood: CBC",
+        "note": "sample note",
+        "count": 2412,
+        "indexDbNote": "sample note",
+        "date": null,
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      },
+      {
+        "investigationId": 38,
+        "name": "Urea",
+        "note": null,
+        "count": 3,
+        "indexDbNote": null,
+        "date": null,
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      }
+    ],
+    "examinations": [
+      {
+        "gynecologyFindings": {
+          "menstrualHistory": {},
+          "obstetricsHistory": {
+            "marriedUnit": "Year",
+            "para": null
+          },
+          "perAbdominalGyne": {
+            "nad": false
+          },
+          "perAbdominalPregnency": {
+            "fundalHeightUnit": "week"
+          },
+          "perVaginalGyne": {
+            "utSizeUnitPV": "week"
+          },
+          "perVaginalPregnency": {}
+        },
+        "suggestionId": 149,
+        "originalSuggestionId": 149,
+        "name": "Vision",
+        "originalName": "Vision",
+        "values": []
+      },
+      {
+        "gynecologyFindings": {
+          "menstrualHistory": {},
+          "obstetricsHistory": {
+            "marriedUnit": "Year",
+            "para": null
+          },
+          "perAbdominalGyne": {
+            "nad": false
+          },
+          "perAbdominalPregnency": {
+            "fundalHeightUnit": "week"
+          },
+          "perVaginalGyne": {
+            "utSizeUnitPV": "week"
+          },
+          "perVaginalPregnency": {}
+        },
+        "suggestionId": 156,
+        "originalSuggestionId": 156,
+        "name": "Weight",
+        "originalName": "Weight",
+        "values": []
+      }
+    ],
+    "advices": [
+      {
+        "suggestionId": 461,
+        "originalSuggestionId": 461,
+        "name": "পরবর্তীতে আসার সময়ে টেস্ট রিপোর্ট নিয়ে আসবেন",
+        "originalName": "পরবর্তীতে আসার সময়ে টেস্ট রিপোর্ট নিয়ে আসবেন",
+        "note": null,
+        "count": 1210,
+        "indexDbNote": null,
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      },
+      {
+        "suggestionId": 483,
+        "originalSuggestionId": 483,
+        "name": "বেশি বেশি পুষ্টিকর খাবার খাবেন",
+        "originalName": "বেশি বেশি পুষ্টিকর খাবার খাবেন",
+        "note": null,
+        "count": 19,
+        "indexDbNote": null,
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      },
+      {
+        "suggestionId": 23290,
+        "originalSuggestionId": 23290,
+        "name": "পানি বেশি করে খাবেন",
+        "originalName": "পানি বেশি করে খাবেন",
+        "note": null,
+        "count": 16,
+        "indexDbNote": null,
+        "teeth": [],
+        "values": [],
+        "valueJSON": "[]",
+        "value": ""
+      }
+    ],
+    "allergy": {},
+    "socialHabit": {},
+    "followUps": [],
+    "referrals": [],
+    "patient": {
+      "age": {
+        "year": 24,
+        "month": 9,
+        "day": 9
+      },
+      "name": "Fariha Test ",
+      "gender": "Female",
+      "phoneNumber": "01883766247",
+      "bloodGroup": "O_POSITIVE",
+      "fatherName": "",
+      "motherName": "",
+      "address": "Sdffg",
+      "dateOfBirth": "2000-03-12T18:00:00.000Z"
+    },
+    "vitalSign": {
+      "lungsType": [],
+      "pulseUnit": "bpm",
+      "temperatureUnit": "F",
+      "heightUnit": "inch",
+      "weightUnit": "kg",
+      "peakFlowRateUnit": "lpm",
+      "ofcUnit": "inch"
+    },
+    "gynecologyFindings": {
+      "menstrualHistory": {},
+      "obstetricsHistory": {
+        "marriedUnit": "Year",
+        "para": null
+      },
+      "perAbdominalGyne": {
+        "nad": false
+      },
+      "perAbdominalPregnency": {
+        "fundalHeightUnit": "week"
+      },
+      "perVaginalGyne": {
+        "utSizeUnitPV": "week"
+      },
+      "perVaginalPregnency": {}
+    },
+    "investigationOrderReferences": [],
+    "investigationReferenceEnabled": false,
+    "eyeGlass": {
+      "reCylinder": "-1.75",
+      "leCylinder": "-1.75"
+    },
+    "preference": {
+      "medicationPreference": "BOTH",
+      "language": null
+    },
+    "visitType": "New",
+    "profileId": "P-2JNBPLBG8",
+    "followUpDate": "25/12/2024"
+  }
+}
